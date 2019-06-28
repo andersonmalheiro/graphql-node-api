@@ -1,7 +1,9 @@
 {
   "env": {
-    "MONGO_USER": "",
-    "MONGO_PASSWD": "",
-    "DB": "graphql-tuto"
+    "MONGO_USER": "root",
+    "MONGO_PASSWD": "example",
+    "DB": "graphql-tuto",
+    "DATABASE_URL": "mongodb://127.0.0.1:27017",
+    "PORT": 3000
   }
 }
